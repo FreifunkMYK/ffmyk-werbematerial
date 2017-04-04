@@ -7,3 +7,5 @@ In diesem Repository befinden sich eine Sammlung an Werbematerialien für Vortr�
 - Alternate Gthic No
 - Lato-Bold
 - Lato-Regular
+
+Teile des Repositorys können unter anderen Licencen stehen!
